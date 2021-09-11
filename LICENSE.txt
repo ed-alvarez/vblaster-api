@@ -1,8 +1,0 @@
-UNLICENSED
-
-Copyright (c) 2020 - present EAÃM, Canada, Ontario, Toronto.
-
-All rights reserved.
-
-Use of this code outside main repositories and intended environments
-is not allowed.
